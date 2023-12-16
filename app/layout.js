@@ -1,5 +1,5 @@
 import AppHeader from "@/components/main-header/main-header";
-import AppHeaderBackground from "@/components/main-header/main-header-background";
+import AppHeaderBackground from "@/components/app-header-background";
 import "./globals.css";
 
 export const metadata = {
